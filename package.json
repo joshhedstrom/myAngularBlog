@@ -1,0 +1,20 @@
+{
+  "name": "myAngularBlog",
+  "version": "1.0.0",
+  "description": "A demo blog in angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshhedstrom/myAngularBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshhedstrom/myAngularBlog/issues"
+  },
+  "homepage": "https://github.com/joshhedstrom/myAngularBlog#readme"
+}
