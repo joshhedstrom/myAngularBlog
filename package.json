@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joshhedstrom/myAngularBlog/issues"
   },
-  "homepage": "https://github.com/joshhedstrom/myAngularBlog#readme"
+  "homepage": "https://github.com/joshhedstrom/myAngularBlog#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
